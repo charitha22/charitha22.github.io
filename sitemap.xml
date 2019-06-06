@@ -3,170 +3,170 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/post/</loc>
+    <loc>/post.html</loc>
     <lastmod>2018-12-27T20:46:49-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/nasa-images/</loc>
+    <loc>/nasa-images.html</loc>
     <lastmod>2018-12-27T20:46:49-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2018-12-27T20:46:49-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/</loc>
+    <loc>/tags.html</loc>
     <lastmod>2018-12-27T20:46:49-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/nasa/</loc>
+    <loc>/</loc>
     <lastmod>2018-12-27T20:46:49-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/quotes-by-carl-jung/</loc>
+    <loc>/tags/nasa.html</loc>
+    <lastmod>2018-12-27T20:46:49-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/quotes-by-carl-jung.html</loc>
     <lastmod>2018-12-26T00:29:41-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/quotes/</loc>
+    <loc>/tags/quotes.html</loc>
     <lastmod>2018-12-26T00:29:41-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/style-a-markdown-table-with-bootstrap-classes-in-hugo/</loc>
+    <loc>/style-a-markdown-table-with-bootstrap-classes-in-hugo.html</loc>
     <lastmod>2018-12-12T12:47:56-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/bootstrap/</loc>
-    <lastmod>2018-12-12T12:47:56-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/css/</loc>
+    <loc>/tags/bootstrap.html</loc>
     <lastmod>2018-12-12T12:47:56-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/hugo/</loc>
+    <loc>/tags/css.html</loc>
     <lastmod>2018-12-12T12:47:56-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/use-snap-to-install-the-hugo-edge-version-on-fedora-and-ubuntu/</loc>
+    <loc>/tags/hugo.html</loc>
+    <lastmod>2018-12-12T12:47:56-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/use-snap-to-install-the-hugo-edge-version-on-fedora-and-ubuntu.html</loc>
     <lastmod>2018-10-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/fedora/</loc>
+    <loc>/tags/fedora.html</loc>
     <lastmod>2018-10-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/snap/</loc>
+    <loc>/tags/snap.html</loc>
     <lastmod>2018-10-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/ubuntu/</loc>
+    <loc>/tags/ubuntu.html</loc>
     <lastmod>2018-10-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/script-to-add-a-page-level-variable-to-content-front-matter-in-hugo/</loc>
+    <loc>/script-to-add-a-page-level-variable-to-content-front-matter-in-hugo.html</loc>
     <lastmod>2018-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/awk/</loc>
-    <lastmod>2018-10-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/command-line/</loc>
+    <loc>/tags/awk.html</loc>
     <lastmod>2018-10-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/creating-a-new-theme/</loc>
+    <loc>/tags/command-line.html</loc>
+    <lastmod>2018-10-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/creating-a-new-theme.html</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/theme/</loc>
+    <loc>/tags/theme.html</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>/about.html</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/goisforlovers/</loc>
+    <loc>/goisforlovers.html</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/hugoisforlovers/</loc>
+    <loc>/hugoisforlovers.html</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/fun/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/git/</loc>
+    <loc>/tags/fun.html</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/go/</loc>
+    <loc>/tags/git.html</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/templates/</loc>
+    <loc>/tags/go.html</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/migrate-from-jekyll/</loc>
+    <loc>/tags/templates.html</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/migrate-from-jekyll.html</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/jekyll/</loc>
+    <loc>/tags/jekyll.html</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/migration/</loc>
+    <loc>/tags/migration.html</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

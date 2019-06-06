@@ -8,9 +8,7 @@
   <link rel="stylesheet" href="./css/bootstrap.min.css">
   
   
-    
-  
-  <title>Vanilla</title>
+  <title>Style a markdown table with Bootstrap classes in Hugo | Vanilla</title>
   <style>
 .container {
   max-width: 700px;
@@ -87,13 +85,11 @@ audio {
       
       
       
-       
-        
         
       
     
     
-    <a class="nav-link nav-link-active" href="./"><i data-feather="home"></i> Home</a>
+    <a class="nav-link " href="./"><i data-feather="home"></i> Home</a>
   
     
     
@@ -101,11 +97,13 @@ audio {
       
       
       
+       
+        
         
       
     
     
-    <a class="nav-link " href="./post/"><i data-feather="edit"></i> Blog</a>
+    <a class="nav-link nav-link-active" href="./post/"><i data-feather="edit"></i> Blog</a>
   
     
     
@@ -149,12 +147,93 @@ audio {
       <main id="main">
         
 
-<div id="home-jumbotron" class="jumbotron text-center">
+<h1>Style a markdown table with Bootstrap classes in Hugo</h1>
 
-  <h1>Vanilla</h1>
-  <p class="font-125">Welcome to the Vanilla theme demo. Have a look around. Maybe even eat some ice cream.</p>
 
-</div>
+<i data-feather="calendar"></i> <time datetime="2018-12-12">Dec 12, 2018</time>
+
+  <br>
+  <i data-feather="tag"></i>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="./tags/css">css</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="./tags/bootstrap">bootstrap</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="./tags/hugo">hugo</a>
+  
+
+<br><br>
+
+
+<p>Inspired by <a href="https://discourse.gohugo.io/t/how-to-customise-tables/15661/">this discussion</a>, I wanted the ability to style a markdown table with <a href="https://getbootstrap.com/docs/4.1/content/tables/">Bootstrap table classes</a>. In the past, I&rsquo;ve accomplished this by <a href="https://zwbetz.com/create-an-html-table-from-a-toml-data-file-in-hugo/">defining the table in a data file</a>, then building it with a shortcode.</p>
+
+<p>While this works fine, it&rsquo;s better for a different use case. I wanted something that meets the following criteria:</p>
+
+<ul>
+<li>The table is defined in markdown</li>
+<li>It lives in the content file, e.g. <code>content/post/some-post.md</code></li>
+<li>It&rsquo;s styled with Bootstrap table classes</li>
+</ul>
+
+<p>After a bit of tinkering, here&rsquo;s the shortcode I came up with. To use it, pass the markdown table between the shortcode, then pass the Bootstrap table classes as an argument.</p>
+
+<h2 id="usage">Usage</h2>
+
+<pre><code>{{&lt; bootstrap-table &quot;table table-dark table-striped table-bordered&quot; &gt;}}
+| Animal  | Sounds |
+|---------|--------|
+| Cat     | Meow   |
+| Dog     | Woof   |
+| Cricket | Chirp  |
+{{&lt; /bootstrap-table &gt;}}
+</code></pre>
+
+<h2 id="definition">Definition</h2>
+
+<pre><code>{{ $htmlTable := .Inner | markdownify }}
+{{ $class := .Get 0 }}
+{{ $old := &quot;&lt;table&gt;&quot; }}
+{{ $new := printf &quot;&lt;table class=\&quot;%s\&quot;&gt;&quot; $class }}
+{{ $htmlTable := replace $htmlTable $old $new }}
+{{ $htmlTable | safeHTML }}
+</code></pre>
+
+<h2 id="output">Output</h2>
+
+
+
+
+
+
+<table class="table table-dark table-striped table-bordered">
+<thead>
+<tr>
+<th>Animal</th>
+<th>Sounds</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Cat</td>
+<td>Meow</td>
+</tr>
+
+<tr>
+<td>Dog</td>
+<td>Woof</td>
+</tr>
+
+<tr>
+<td>Cricket</td>
+<td>Chirp</td>
+</tr>
+</tbody>
+</table>
+
 
 
       </main>
