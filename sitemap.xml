@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/home/charitha/git/myweb/public/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/home/charitha/git/myweb/public/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/home/charitha/git/myweb/public/authors/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/home/charitha/git/myweb/public/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/home/charitha/git/myweb/public/post/</loc>
+  </url>
+  
+  <url>
+    <loc>/home/charitha/git/myweb/public/publication_types/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/home/charitha/git/myweb/public/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>/home/charitha/git/myweb/public/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>/home/charitha/git/myweb/public/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
