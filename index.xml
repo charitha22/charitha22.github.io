@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
-    <link>/home/charitha/git/myweb/public/</link>
+    <link>charitha22.github.io/</link>
     <description>Recent content on Academic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	    <atom:link href="/home/charitha/git/myweb/public/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="charitha22.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
