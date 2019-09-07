@@ -14,7 +14,7 @@ Hi! I am a PhD student in Electrical and Computer Engineering department of Purd
    <a href="https://github.com/charitha22/XSTRESSOR" target="_blank"><i class="fab fa-github fa-1x" style="color:black;"></i></a>
 2. **PySE: Automatic Worst-Case Test Generation by Reinforcement Learning** <br/>
    Jinkyu Koo, Charitha Saumya, Milind Kulkarni, Saurabh Bagchi <br/>
-   ICST 2019 (Acceptance rate = 28.1%)
+   ICST 2019 (Acceptance rate = 28.1%) <a href="08730198.pdf" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
 3. **Inertial Measurement units based wireless sensor network for real time gait analysis** <br/>
    Imesh Lihinikaduarachchi, Sajith Rajapaksha, Charitha Saumya, Viraj Senevirathne and Pujitha Silva <br/>
    IEEE Region 10 Conference 2015
