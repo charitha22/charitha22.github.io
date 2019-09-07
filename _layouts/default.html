@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <!--<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">-->
+    <script src="https://kit.fontawesome.com/4464c313f1.js"></script>
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
     <meta charset="utf-8">
@@ -63,12 +64,12 @@
                     {% if x.name == "github" %}
                         <li class="alignable pull-left nav-list">
                          <a href="http://github.com/{{ site.github }}" class="allignable pull-right" target="_blank">
-                            <i class="fa fa-github fa-3x" style="color:black;"></i></a> 
+                            <i class="fab fa-github fa-3x" style="color:black;"></i></a> 
                     {% endif %}
                     {% if x.name == "linkedin" %} 
                         <li class="alignable pull-left nav-list">
                          <a href="http://linkedin.com/in/{{ site.linkedin }}" class="allignable pull-right" target="_blank">
-                            <i class="fa fa-linkedin fa-3x" style="color:#0077B5;"></i></a> 
+                            <i class="fab fa-linkedin fa-3x" style="color:#0077B5;"></i></a> 
                     {% endif %}
                     {% if forloop.last == false %}
                         

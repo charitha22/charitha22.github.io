@@ -10,7 +10,8 @@ Hi! I am a PhD student in Electrical and Computer Engineering department of Purd
 
 1. **XSTRESSOR: Automatic Generation of Large-Scale Worst-Case Test Inputs by Inferring Path Conditions** <br/>
    Charitha Saumya, Jinkyu Koo, Milind Kulkarni, Saurabh Bagchi <br/>
-   ICST 2019 (Acceptance rate = 28.1%) 
+   ICST 2019 (Acceptance rate = 28.1%) <a href="PID5758301.pdf" target="_blank"><i class="fas fa-file-pdf fa-1x" style="color:red;"></i></a>
+   <a href="https://github.com/charitha22/XSTRESSOR" target="_blank"><i class="fab fa-github fa-1x" style="color:black;"></i></a>
 2. **PySE: Automatic Worst-Case Test Generation by Reinforcement Learning** <br/>
    Jinkyu Koo, Charitha Saumya, Milind Kulkarni, Saurabh Bagchi <br/>
    ICST 2019 (Acceptance rate = 28.1%)
@@ -23,9 +24,12 @@ Hi! I am a PhD student in Electrical and Computer Engineering department of Purd
 
 ## Work Experience
 
-* 2016 - (present) Graduate Research and Teaching Assistant : Purdue University, West Lafayette, Indiana, USA
-* 2015 - 2016 Associate Software Engineer : Paraqum Technologies (Pvt) Ltd, Colombo, Sri Lanka
-* 2013 - 2014 Trainee Software Engineer : MillenniumIT Software (Pvt) Ltd, Colombo, Sri Lanka
+* Summer 2019 <br/>
+    Software Engineering Intern, Bigstream, Mountian View, CA
+* 2015 - 2016 <br/>
+    Associate Software Engineer, Paraqum Technologies, Colombo, Sri Lanka
+* 2013 - 2014 <br/>
+    Trainee Software Engineer, MillenniumIT Software, Colombo, Sri Lanka
 
 ## Professional Service
 * External reviewer for ISSRE 2017, 2018
