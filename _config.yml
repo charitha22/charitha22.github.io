@@ -5,10 +5,11 @@ url: "charitha22.github.io"
 baseurl: "/"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
 
 github: "charitha22"
 linkedin: "charithasaumya"
+twitter: "charitha22"
+mail: "cgusthin@purdue.edu"
 
 tracking_id: #
 
@@ -23,10 +24,5 @@ sass:
 nav:
   - name: "github"
   - name: "linkedin"
- #- name: "About"
-   #link: "/researcher/"
- #- name: "Resume"
-   #link: "resume.pdf"
- #- name: "Contact"
-   #link: "contact"
-
+  - name: "twitter"
+  - name: "mail"

@@ -63,14 +63,25 @@
                 {% for x in site.nav %}
                     {% if x.name == "github" %}
                         <li class="alignable pull-left nav-list">
-                         <a href="http://github.com/{{ site.github }}" class="allignable pull-right" target="_blank">
-                            <i class="fab fa-github fa-3x" style="color:black;"></i></a> 
+                         <a href="https://github.com/{{ site.github }}" class="allignable pull-right" target="_blank">
+                            <i class="fab fa-github fa-2x" style="color:black;"></i></a> 
                     {% endif %}
                     {% if x.name == "linkedin" %} 
                         <li class="alignable pull-left nav-list">
-                         <a href="http://linkedin.com/in/{{ site.linkedin }}" class="allignable pull-right" target="_blank">
-                            <i class="fab fa-linkedin fa-3x" style="color:black;"></i></a> 
+                         <a href="https://linkedin.com/in/{{ site.linkedin }}" class="allignable pull-right" target="_blank">
+                            <i class="fab fa-linkedin fa-2x" style="color:black;"></i></a> 
                     {% endif %}
+                    {% if x.name == "twitter" %} 
+                        <li class="alignable pull-left nav-list">
+                         <a href="https://twitter.com/{{ site.twitter}}" class="allignable pull-right" target="_blank">
+                            <i class="fab fa-twitter fa-2x" style="color:black;"></i></a> 
+                    {% endif %}
+                    {% if x.name == "mail" %} 
+                        <li class="alignable pull-left nav-list">
+                         <a href="mailto:{{ site.mail}}" class="allignable pull-right" target="_blank">
+                            <i class="fas fa-envelope fa-2x" style="color:black;"></i></a> 
+                    {% endif %}
+ 
                     {% if forloop.last == false %}
                         
                     {% endif %}
