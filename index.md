@@ -5,7 +5,7 @@ layout: default
 <!--<img class="profile-picture" src="charitha.jpg">-->
 <img src="charitha.jpg" alt="Poster" style="float:  right; width: 125px;  border-radius: 50%;"/> 
 
-Hi! I am a PhD student in Electrical and Computer Engineering department of Purdue university. I am interested in software testing and optimizing compilers for heterogeneous architectures. I am advised by prof. Milind Kulkarni.
+Hi! I am a PhD student in Electrical and Computer Engineering department of Purdue university. I am interested in software testing and optimizing compilers for heterogeneous architectures. I am advised by prof. Milind Kulkarni. Before Purdue, I attended University of Moratuwa in Sri Lanka where I obtained a BS in Electronics and Telecommunications.
 ## Publications
 
 1. **XSTRESSOR: Automatic Generation of Large-Scale Worst-Case Test Inputs by Inferring Path Conditions** <br/>
