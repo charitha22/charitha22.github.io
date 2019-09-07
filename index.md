@@ -10,17 +10,20 @@ Hi! I am a PhD student in Electrical and Computer Engineering department of Purd
 
 1. **XSTRESSOR: Automatic Generation of Large-Scale Worst-Case Test Inputs by Inferring Path Conditions** <br/>
    Charitha Saumya, Jinkyu Koo, Milind Kulkarni, Saurabh Bagchi <br/>
-   ICST 2019 (Acceptance rate = 28.1%) <a href="PID5758301.pdf" target="_blank"><i class="fas fa-file-pdf fa-1x" style="color:red;"></i></a>
+   ICST 2019 (Acceptance rate = 28.1%) <a href="PID5758301.pdf" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
    <a href="https://github.com/charitha22/XSTRESSOR" target="_blank"><i class="fab fa-github fa-1x" style="color:black;"></i></a>
 2. **PySE: Automatic Worst-Case Test Generation by Reinforcement Learning** <br/>
    Jinkyu Koo, Charitha Saumya, Milind Kulkarni, Saurabh Bagchi <br/>
    ICST 2019 (Acceptance rate = 28.1%)
-3. **Orion+: Automated Problem Diagnosis in Computing Systems by Mining Metric Data** <br/>
-   Charitha Saumya, Nomchin Banga, Shreya Inamdar <br/>
-   Purdue e-Pubs 2018
-4. **Inertial Measurement units based wireless sensor network for real time gait analysis** <br/>
+3. **Inertial Measurement units based wireless sensor network for real time gait analysis** <br/>
    Imesh Lihinikaduarachchi, Sajith Rajapaksha, Charitha Saumya, Viraj Senevirathne and Pujitha Silva <br/>
    IEEE Region 10 Conference 2015
+
+## Technical Reports
+
+1. **Orion+: Automated Problem Diagnosis in Computing Systems by Mining Metric Data** <br/>
+   Charitha Saumya, Nomchin Banga, Shreya Inamdar <br/>
+   Purdue e-Pubs 2018
 
 ## Work Experience
 
