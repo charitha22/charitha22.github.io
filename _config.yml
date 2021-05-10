@@ -28,7 +28,7 @@ medium: saumyacharitha
 
 header_pages: # add header pages here eg. blog
     
-
+google_analytics: UA-100131377-1
 theme_link: https://github.com/jekyll/minima
 last_updated: "Last Updated : May 2021"
 
