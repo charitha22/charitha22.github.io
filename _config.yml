@@ -26,7 +26,7 @@ linkedin: charithasaumya
 mail: cgusthin@purdue.edu
 medium: saumyacharitha
 
-header_pages: blog.md # add header pages here eg. blog
+header_pages: # add header pages here eg. blog
     
 
 theme_link: https://github.com/jekyll/minima
