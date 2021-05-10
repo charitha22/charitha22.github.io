@@ -3,40 +3,61 @@ layout: custom
 ---
 
 <!--<img class="profile-picture" src="charitha.jpg">-->
-<img  src="charitha.jpg" alt="Poster" style="float:  left; width: 125px; padding-right:10px"/> 
-<div style="text-align: left"> Hi! I am a PhD student in Electrical and Computer Engineering department of Purdue university. I am interested in software testing and optimizing compilers for heterogeneous architectures. I am advised by prof. Milind Kulkarni. Before Purdue, I attended University of Moratuwa in Sri Lanka where I obtained a BS in Electronics and Telecommunications. </div>
-
+<div style="text-align:center">
+<img  src="charitha.jpg" alt="Poster" style="border-radius:50% "/>  <br/>
+</div>
+<br/>
+I am a PhD student in Electrical and Computer Engineering Department of Purdue university. I am interested in Software Testing and Optimizing Compilers for Heterogeneous Architectures. I am fortunate to be advised by prof. [Milind Kulkarni](https://engineering.purdue.edu/~milind/). 
+<!-- </div> -->
+<br/>
 <!--Have a look at my blog [here](blog).-->
 ## Publications
 
-1. **XSTRESSOR: Automatic Generation of Large-Scale Worst-Case Test Inputs by Inferring Path Conditions** <br/>
++ **SIMT Thread Divergence Reduction by Fusing Similar Control-Flow in GPGPU Programs** <br/>
+    Charitha Saumya, Kirshanthan Sundararajah, Milind Kulkarni <br/>
+    (Under Review)
++ **XSTRESSOR: Automatic Generation of Large-Scale Worst-Case Test Inputs by Inferring Path Conditions** <br/>
    Charitha Saumya, Jinkyu Koo, Milind Kulkarni, Saurabh Bagchi <br/>
-   ICST 2019 (Acceptance rate = 28.1%) <a href="PID5758301.pdf" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
+   ICST 2019 (Acceptance rate = 28.1%) 
+    <a href="https://ieeexplore.ieee.org/document/8730162" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
    <!--<a href="https://github.com/charitha22/XSTRESSOR" target="_blank"><i class="fab fa-github fa-1x" style="color:black;"></i></a>-->
-2. **PySE: Automatic Worst-Case Test Generation by Reinforcement Learning** <br/>
++ **PySE: Automatic Worst-Case Test Generation by Reinforcement Learning** <br/>
    Jinkyu Koo, Charitha Saumya, Milind Kulkarni, Saurabh Bagchi <br/>
-   ICST 2019 (Acceptance rate = 28.1%) <a href="08730198.pdf" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
-3. **Inertial Measurement units based wireless sensor network for real time gait analysis** <br/>
+   ICST 2019 (Acceptance rate = 28.1%) 
+    <a href="https://ieeexplore.ieee.org/document/8730198" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
++ **Inertial Measurement Units based Wireless Sensor Network for Real Time Gait Analysis** <br/>
    Imesh Lihinikaduarachchi, Sajith Rajapaksha, Charitha Saumya, Viraj Senevirathne and Pujitha Silva <br/>
    IEEE Region 10 Conference 2015
+    <a href="https://ieeexplore.ieee.org/document/7372999" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
 
 ## Technical Reports
 
-1. **Orion+: Automated Problem Diagnosis in Computing Systems by Mining Metric Data** <br/>
++  **Orion+: Automated Problem Diagnosis in Computing Systems by Mining Metric Data** <br/>
    Charitha Saumya, Nomchin Banga, Shreya Inamdar <br/>
    Purdue e-Pubs 2018
+   <a href="https://docs.lib.purdue.edu/ecetr/488/" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
+
+## Education
+* PhD in Electrical and Computer Engineering <br/>
+    *Purdue University* (August 2016 - Present) 
+* MS in Electrical and Computer Engineering <br/>
+    *Purdue University* (August 2016 - December 2020)
+* BS in Electronic and Communication Engineering <br/>
+    *University of Moratuwa, Sri Lanka* (July 2010 - May 2015)
 
 ## Work Experience
 
-* Summer 2019 <br/>
-    Software Engineering Intern, Bigstream, Mountian View, CA
-* 2015 - 2016 <br/>
-    Associate Software Engineer, Paraqum Technologies, Colombo, Sri Lanka
-* 2013 - 2014 <br/>
-    Trainee Software Engineer, MillenniumIT Software, Colombo, Sri Lanka
+* Research Intern <br/>
+    *Adobe Research, San Jose, CA* (Summer 2020)
+* Software Engineering Intern <br/>
+    *Bigstream, Mountian View, CA* (Summer 2019)
+* Associate Software Engineer <br/>
+    *Paraqum Technologies, Colombo, Sri Lanka* (2015 - 2016)
+* Trainee Software Engineer <br/>
+    *MillenniumIT Software, Colombo, Sri Lanka* (2013 - 2014)
 
 ## Professional Service
-* External reviewer for ISSRE 2017, 2018
+
+* External Reviewer for ISSRE 2017, 2018, DSN 2021
 * Summer Interns advised : Pranavi Bajjuri, Ganesh Varnekar
 
-*Last Updated : 7th September 2019*

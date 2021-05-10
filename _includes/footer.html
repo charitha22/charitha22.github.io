@@ -3,10 +3,10 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    <!-- <h2 class="footer-heading">{{ site.title | escape }}</h2> -->
 
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
+      <!-- <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li class="p-name">
             {%- if site.author -%}
@@ -19,14 +19,21 @@
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
         </ul>
+      </div> -->
+
+      <div class="footer-col footer-col-1">
+        <p>{{- site.description | escape -}}</p>
       </div>
 
       <div class="footer-col footer-col-2">
-        {%- include social.html -%}
+        <!-- <p>{{- site.twitter | escape -}}</p> -->
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
+        <p>Site created based on 
+        <a href="{{ site.theme_link}}" class="allignable pull-right" target="_blank">
+            jekyll minima </a>
+        theme </p>
       </div>
     </div>
 
