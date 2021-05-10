@@ -7,13 +7,13 @@ layout: custom
 <img  src="charitha.jpg" alt="Poster" style="border-radius:50% "/>  <br/>
 </div>
 <br/>
-I am a PhD student in Electrical and Computer Engineering Department of Purdue university. I am interested in Software Testing and Optimizing Compilers for Heterogeneous Architectures. I am fortunate to be advised by prof. [Milind Kulkarni](https://engineering.purdue.edu/~milind/). 
+I am a PhD student in Electrical and Computer Engineering Department of Purdue University. I am interested in building Optimizing Compilers for Heterogeneous Architectures and Software Testing. I am fortunate to be advised by prof. [Milind Kulkarni](https://engineering.purdue.edu/~milind/). 
 <!-- </div> -->
 <br/>
 <!--Have a look at my blog [here](blog).-->
 ## Publications
 
-+ **SIMT Thread Divergence Reduction by Fusing Similar Control-Flow in GPGPU Programs** <br/>
++ **SIMT Thread Divergence Reduction by Fusing Similar Control-Flow Regions in GPGPU Programs** <br/>
     Charitha Saumya, Kirshanthan Sundararajah, Milind Kulkarni <br/>
     (Under Review)
 + **XSTRESSOR: Automatic Generation of Large-Scale Worst-Case Test Inputs by Inferring Path Conditions** <br/>
