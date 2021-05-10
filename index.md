@@ -7,7 +7,9 @@ layout: custom
 <img  src="charitha.jpg" alt="Poster" style="border-radius:50% "/>  <br/>
 </div>
 <br/>
-I am a PhD student in Electrical and Computer Engineering Department of Purdue University. I am interested in building Optimizing Compilers for Heterogeneous Architectures and Software Testing. I am fortunate to be advised by prof. [Milind Kulkarni](https://engineering.purdue.edu/~milind/). 
+I am a PhD student in Electrical and Computer Engineering Department of Purdue University. My current research is focused on building Optimizing Compilers for Heterogeneous Architectures. I also have experience in using program analysis techniques (e.g. Fuzzing, Symbolic Execution) to improve Performance Test 
+Generation. 
+I am fortunate to be advised by prof. [Milind Kulkarni](https://engineering.purdue.edu/~milind/). 
 <!-- </div> -->
 <br/>
 <!--Have a look at my blog [here](blog).-->
