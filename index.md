@@ -32,12 +32,12 @@ I am fortunate to be advised by prof. [Milind Kulkarni](https://engineering.purd
    IEEE Region 10 Conference 2015
     <a href="https://ieeexplore.ieee.org/document/7372999" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
 
-## Technical Reports
+<!--## Technical Reports-->
 
-+  **Orion+: Automated Problem Diagnosis in Computing Systems by Mining Metric Data** <br/>
-   Charitha Saumya, Nomchin Banga, Shreya Inamdar <br/>
-   Purdue e-Pubs 2018
-   <a href="https://docs.lib.purdue.edu/ecetr/488/" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
+<!--+  **Orion+: Automated Problem Diagnosis in Computing Systems by Mining Metric Data** <br/>-->
+   <!--Charitha Saumya, Nomchin Banga, Shreya Inamdar <br/>-->
+   <!--Purdue e-Pubs 2018-->
+   <!--<a href="https://docs.lib.purdue.edu/ecetr/488/" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>-->
 
 ## Education
 * PhD in Electrical and Computer Engineering <br/>
