@@ -15,9 +15,10 @@ I am fortunate to be advised by prof. [Milind Kulkarni](https://engineering.purd
 <!--Have a look at my blog [here](blog).-->
 ## Publications
 
-+ **SIMT Thread Divergence Reduction by Fusing Similar Control-Flow Regions in GPGPU Programs** <br/>
++ **CFM: SIMT Thread Divergence Reduction by Melding Similar Control-Flow Regions in GPGPU Programs** <br/>
     Charitha Saumya, Kirshanthan Sundararajah, Milind Kulkarni <br/>
-    (Under Review)
+    (Under Review) 
+    <a href="https://arxiv.org/abs/2107.05681" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
 + **XSTRESSOR: Automatic Generation of Large-Scale Worst-Case Test Inputs by Inferring Path Conditions** <br/>
    Charitha Saumya, Jinkyu Koo, Milind Kulkarni, Saurabh Bagchi <br/>
    ICST 2019 (Acceptance rate = 28.1%) 

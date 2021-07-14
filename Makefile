@@ -1,5 +1,5 @@
 all:
-	jekyll build && jekyll serve
+	bundle exec jekyll serve
 
 clean :
 	jekyll clean
