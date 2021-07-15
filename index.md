@@ -45,29 +45,28 @@ I am fortunate to be advised by prof. [Milind Kulkarni](https://engineering.purd
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
+  overflow:hidden;padding:5px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:5px 5px;word-break:normal;}
-.tg .tg-fkjn{border-color:#ffffff;color:#000000;font-family:Arial, Helvetica, sans-serif !important;;text-align:left;
-  vertical-align:top}
-.tg .tg-0o1n{border-color:#ffffff;color:#000000;font-style:italic;text-align:right;vertical-align:top}
-.tg .tg-ikqu{border-color:#ffffff;color:#000000;text-align:left;vertical-align:top}
+.tg .tg-eo1f{background-color:#ffffff;border-color:#ffffff;color:#000000;font-family:Arial, Helvetica, sans-serif !important;;
+  font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-gs09{background-color:#ffffff;border-color:#ffffff;color:#000000;font-style:italic;text-align:right;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-fkjn"><span style="font-weight:bold">PhD in Electrical and Computer Engineering</span><br></th>
-    <th class="tg-0o1n">Purdue University <br>(August 2022 Expected)</th>
+    <th class="tg-eo1f">PhD in Electrical and Computer Engineering</th>
+    <th class="tg-gs09">Purdue University <br>(August 2022 Expected)</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ikqu"><span style="font-weight:bold">MS in Electrical and Computer Engineering</span></td>
-    <td class="tg-0o1n">Purdue University <br>(December 2020)</td>
+    <td class="tg-eo1f">MS in Electrical and Computer Engineering</td>
+    <td class="tg-gs09">Purdue University <br>(December 2020)</td>
   </tr>
   <tr>
-    <td class="tg-ikqu"><span style="font-weight:bold">BS in Electronic and Communication Engineering</span></td>
-    <td class="tg-0o1n">University of Moratuwa, Sri Lanka <br>(May 2015)</td>
+    <td class="tg-eo1f"><span style="font-weight:bold">BS in Electronic and Communication Engineering</span></td>
+    <td class="tg-gs09">University of Moratuwa, Sri Lanka <br>(May 2015)</td>
   </tr>
 </tbody>
 </table>
