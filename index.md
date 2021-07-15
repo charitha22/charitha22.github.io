@@ -100,7 +100,7 @@ I am fortunate to be advised by prof. [Milind Kulkarni](https://engineering.purd
     <td class="tg-gs09">Paraqum Technologies, Colombo, Sri Lanka <br>(2015 - 2016)</td>
   </tr>
   <tr>
-    <td class="tg-eo1f">Trainee Software Engineer</td>
+    <td class="tg-eo1f">Software Engineering Intern</td>
     <td class="tg-gs09">MillenniumIT Software, Colombo, Sri Lanka <br>(2013 - 2014)</td>
   </tr>
 </tbody>
