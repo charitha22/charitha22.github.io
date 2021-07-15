@@ -80,29 +80,29 @@ I am fortunate to be advised by prof. [Milind Kulkarni](https://engineering.purd
   overflow:hidden;padding:5px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:5px 5px;word-break:normal;}
-.tg .tg-h4vo{border-color:#ffffff;color:#000000;font-family:Arial, Helvetica, sans-serif !important;;font-weight:bold;
-  text-align:left;vertical-align:top}
-.tg .tg-bzxw{border-color:#ffffff;color:#000000;font-style:italic;text-align:right;vertical-align:top}
+.tg .tg-eo1f{background-color:#ffffff;border-color:#ffffff;color:#000000;font-family:Arial, Helvetica, sans-serif !important;;
+  font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-gs09{background-color:#ffffff;border-color:#ffffff;color:#000000;font-style:italic;text-align:right;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-h4vo">Research Intern</th>
-    <th class="tg-bzxw">Adobe Research, San Jose, CA <br>(Summer 2020)</th>
+    <th class="tg-eo1f">Research Intern</th>
+    <th class="tg-gs09">Adobe Research, San Jose, CA <br>(Summer 2020)</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-h4vo">Software Engineering Intern</td>
-    <td class="tg-bzxw">Bigstream, Mountian View, CA <br>(Summer 2019)</td>
+    <td class="tg-eo1f">Software Engineering Intern</td>
+    <td class="tg-gs09">Bigstream, Mountian View, CA <br>(Summer 2019)</td>
   </tr>
   <tr>
-    <td class="tg-h4vo">Associate Software Engineer</td>
-    <td class="tg-bzxw">Paraqum Technologies, Colombo, Sri Lanka <br>(2015 - 2016)</td>
+    <td class="tg-eo1f">Associate Software Engineer</td>
+    <td class="tg-gs09">Paraqum Technologies, Colombo, Sri Lanka <br>(2015 - 2016)</td>
   </tr>
   <tr>
-    <td class="tg-h4vo">Software Engineering Intern</td>
-    <td class="tg-bzxw">MillenniumIT Software, Colombo, Sri Lanka <br>(2013 - 2014)</td>
+    <td class="tg-eo1f">Trainee Software Engineer</td>
+    <td class="tg-gs09">MillenniumIT Software, Colombo, Sri Lanka <br>(2013 - 2014)</td>
   </tr>
 </tbody>
 </table>
