@@ -56,7 +56,7 @@ I am fortunate to be advised by prof. [Milind Kulkarni](https://engineering.purd
 <thead>
   <tr>
     <th class="tg-eo1f">PhD in Electrical and Computer Engineering</th>
-    <th class="tg-gs09">Purdue University <br>(August 2022 Expected)</th>
+    <th class="tg-gs09">Purdue University <br>(August 2023 Expected)</th>
   </tr>
 </thead>
 <tbody>
