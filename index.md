@@ -4,7 +4,7 @@ layout: custom
 
 <!--<img class="profile-picture" src="charitha.jpg">-->
 <div style="text-align:center">
-<img  src="charitha3.jpg" alt="Poster" style="border-radius:50%" width="200"/>  <br/>
+<img  src="charitha2.jpg" alt="Poster" style="border-radius:50%" width="200"/>  <br/>
 </div>
 <br/>
 I am a PhD student in Electrical and Computer Engineering Department of Purdue University. My current research is focused on building Optimizing Compilers for Heterogeneous Architectures. I also have experience in using program analysis techniques (e.g. Fuzzing, Symbolic Execution) to improve Performance Test 
