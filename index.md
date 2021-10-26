@@ -7,7 +7,7 @@ layout: custom
 <img  src="charitha4.jpg" alt="Poster" style="border-radius:50%" width="200"/>  <br/>
 </div>
 <br/>
-I am a PhD student in Electrical and Computer Engineering Department of Purdue University. My current research is focused on building Optimizing Compilers for Heterogeneous Architectures. I also have experience in using program analysis techniques (e.g. Fuzzing, Symbolic Execution) to improve Performance Test 
+I am a PhD student in the Electrical and Computer Engineering Department of Purdue University. My current research is focused on building Optimizing Compilers for Heterogeneous Architectures. I also have experience in using program analysis techniques (e.g. Fuzzing, Symbolic Execution) to improve Performance Test 
 Generation. 
 I am fortunate to be advised by prof. [Milind Kulkarni](https://engineering.purdue.edu/~milind/). 
 <!-- </div> -->
@@ -29,7 +29,7 @@ I am fortunate to be advised by prof. [Milind Kulkarni](https://engineering.purd
    ICST 2019 (Acceptance rate = 28.1%) 
     <a href="https://ieeexplore.ieee.org/document/8730198" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
 + **Inertial Measurement Units based Wireless Sensor Network for Real Time Gait Analysis** <br/>
-   Imesh Lihinikaduarachchi, Sajith Rajapaksha, Charitha Saumya, Viraj Senevirathne and Pujitha Silva <br/>
+   Imesh Lihinikaduarachchi, Sajith Rajapaksha, Charitha Saumya, Viraj Senevirathne,  Pujitha Silva <br/>
    IEEE Region 10 Conference 2015
     <a href="https://ieeexplore.ieee.org/document/7372999" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
 
@@ -65,7 +65,7 @@ I am fortunate to be advised by prof. [Milind Kulkarni](https://engineering.purd
     <td class="tg-gs09">Purdue University <br>(December 2020)</td>
   </tr>
   <tr>
-    <td class="tg-eo1f"><span style="font-weight:bold">BS in Electronic and Communication Engineering</span></td>
+    <td class="tg-eo1f"><span style="font-weight:bold">BS in Electronic and Telecommunication Engineering</span></td>
     <td class="tg-gs09">University of Moratuwa, Sri Lanka <br>(May 2015)</td>
   </tr>
 </tbody>
@@ -108,7 +108,7 @@ I am fortunate to be advised by prof. [Milind Kulkarni](https://engineering.purd
 
 ## Professional Service
 
-* Student Volunteer : SPLASH 2021
-* External Reviewer : ISSRE 2017, 2018, DSN 2021
-* Summer Interns advised : Pranavi Bajjuri, Ganesh Varnekar
+* Student Volunteer: SPLASH 2021
+* External Reviewer: ISSRE 2017, 2018, DSN 2021
+* Summer Interns advised: Pranavi Bajjuri, Ganesh Varnekar
 
