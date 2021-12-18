@@ -15,21 +15,25 @@ I am fortunate to be advised by prof. [Milind Kulkarni](https://engineering.purd
 <!--Have a look at my blog [here](blog).-->
 ## Publications
 
-+ **CFM: SIMT Thread Divergence Reduction by Melding Similar Control-Flow Regions in GPGPU Programs** <br/>
-    Charitha Saumya, Kirshanthan Sundararajah, Milind Kulkarni <br/>
-    (Under Review) 
++ **DARM: Control-Flow Melding for SIMT Thread Divergence Reduction** <br/>
+    **Charitha Saumya**, Kirshanthan Sundararajah, Milind Kulkarni <br/>
+    CGO 2022 (Acceptance rate = 27.3%) 
     <a href="https://arxiv.org/abs/2107.05681" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
++ **ADDS-EVS: An agent-based deployment decision-support system for electric vehicle services** <br/>
+    Zengxiang Lei, Jiawei Xue, Xiaowei Chen, **Charitha Saumya**, Xinwu Qian, Mingyi He, Stanislav Sobolevsky, Satish V Ukkusuri <br/>
+    ITSC 2021
+    <a href="https://ieeexplore.ieee.org/abstract/document/9564435" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
 + **XSTRESSOR: Automatic Generation of Large-Scale Worst-Case Test Inputs by Inferring Path Conditions** <br/>
-   Charitha Saumya, Jinkyu Koo, Milind Kulkarni, Saurabh Bagchi <br/>
+   **Charitha Saumya**, Jinkyu Koo, Milind Kulkarni, Saurabh Bagchi <br/>
    ICST 2019 (Acceptance rate = 28.1%) 
     <a href="https://ieeexplore.ieee.org/document/8730162" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
    <!--<a href="https://github.com/charitha22/XSTRESSOR" target="_blank"><i class="fab fa-github fa-1x" style="color:black;"></i></a>-->
 + **PySE: Automatic Worst-Case Test Generation by Reinforcement Learning** <br/>
-   Jinkyu Koo, Charitha Saumya, Milind Kulkarni, Saurabh Bagchi <br/>
+   Jinkyu Koo, **Charitha Saumya**, Milind Kulkarni, Saurabh Bagchi <br/>
    ICST 2019 (Acceptance rate = 28.1%) 
     <a href="https://ieeexplore.ieee.org/document/8730198" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
 + **Inertial Measurement Units based Wireless Sensor Network for Real Time Gait Analysis** <br/>
-   Imesh Lihinikaduarachchi, Sajith Rajapaksha, Charitha Saumya, Viraj Senevirathne,  Pujitha Silva <br/>
+   Imesh Lihinikaduarachchi, Sajith Rajapaksha, **Charitha Saumya**, Viraj Senevirathne,  Pujitha Silva <br/>
    IEEE Region 10 Conference 2015
     <a href="https://ieeexplore.ieee.org/document/7372999" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
 

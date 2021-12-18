@@ -30,7 +30,7 @@ header_pages: # add header pages here eg. blog
     
 google_analytics: UA-100131377-1
 theme_link: https://github.com/jekyll/minima
-last_updated: "Last Updated : Oct 2021"
+last_updated: "Last Updated : Dec 2021"
 
 # Build settings
 markdown: kramdown
