@@ -18,7 +18,8 @@ I am fortunate to be advised by prof. [Milind Kulkarni](https://engineering.purd
 + **DARM: Control-Flow Melding for SIMT Thread Divergence Reduction** <br/>
     **Charitha Saumya**, Kirshanthan Sundararajah, Milind Kulkarni <br/>
     CGO 2022 (Acceptance rate = 27.3%) 
-    <a href="https://arxiv.org/abs/2107.05681" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
+    <a href="{% link files/cgo22.pdf %}" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
+    \[[extended version](https://arxiv.org/abs/2107.05681)\]
 + **ADDS-EVS: An agent-based deployment decision-support system for electric vehicle services** <br/>
     Zengxiang Lei, Jiawei Xue, Xiaowei Chen, **Charitha Saumya**, Xinwu Qian, Mingyi He, Stanislav Sobolevsky, Satish V Ukkusuri <br/>
     ITSC 2021
