@@ -115,5 +115,5 @@ I am fortunate to be advised by prof. [Milind Kulkarni](https://engineering.purd
 
 * Student Volunteer: SPLASH 2021
 * External Reviewer: ISSRE 2017, 2018, DSN 2021
-* Summer Interns advised: Pranavi Bajjuri, Ganesh Varnekar
+* Undergraduates Advised: Pranavi Bajjuri, Ganesh Varnekar, Vidush Singhal
 
