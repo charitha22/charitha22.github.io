@@ -19,21 +19,28 @@ I am fortunate to be advised by Prof. [Milind Kulkarni](https://engineering.purd
 + **DARM: Control-Flow Melding for SIMT Thread Divergence Reduction** <br/>
     **Charitha Saumya**, Kirshanthan Sundararajah, Milind Kulkarni <br/>
     CGO 2022 (Acceptance rate = 27.3%) 
-    <a href="{% link files/cgo22.pdf %}" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
-    \[[extended version](https://arxiv.org/abs/2107.05681)\]
-+ **ADDS-EVS: An agent-based deployment decision-support system for electric vehicle services** <br/>
+    <a href="{% link files/cgo22.pdf %}" target="_blank"><i class="far fa-file-pdf fa-1.5x" style="color:black;"></i></a>
+    <a href="{% link files/cgo22_slides.pdf %}" target="_blank"><i class="far fa-file-powerpoint fa-1x" style="color:black;"></i></a>
+    <a href="https://github.com/charitha22/cgo22ae-darm-benchmarks" target="_blank"><i class="fa fa-github fa-1x" style="color:black;"></i></a>
+    <!--\[[extended version](https://arxiv.org/abs/2107.05681)\]-->
++ **ADDS-EVS: An Agent-Based Deployment Decision-Support System for Electric Vehicle Services** <br/>
     Zengxiang Lei, Jiawei Xue, Xiaowei Chen, **Charitha Saumya**, Xinwu Qian, Mingyi He, Stanislav Sobolevsky, Satish V Ukkusuri <br/>
     ITSC 2021
     <a href="https://ieeexplore.ieee.org/abstract/document/9564435" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
 + **XSTRESSOR: Automatic Generation of Large-Scale Worst-Case Test Inputs by Inferring Path Conditions** <br/>
    **Charitha Saumya**, Jinkyu Koo, Milind Kulkarni, Saurabh Bagchi <br/>
-   ICST 2019 (Acceptance rate = 28.1%) 
-    <a href="https://ieeexplore.ieee.org/document/8730162" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
-   <!--<a href="https://github.com/charitha22/XSTRESSOR" target="_blank"><i class="fab fa-github fa-1x" style="color:black;"></i></a>-->
+   ICST 2019 (Acceptance rate = 28.1%)
+    <a href="https://ieeexplore.ieee.org/document/8730162" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a> 
+    <a href="{% link files/ICST19_xstressor_slides.pdf %}" target="_blank"><i class="far fa-file-powerpoint fa-1x" style="color:black;"></i></a> 
+    <a href="https://github.com/charitha22/XSTRESSOR" target="_blank"><i class="fa fa-github fa-1x" style="color:black;"></i></a>
+    <br/>
+    <i class="fa fa-award fa-1x" style="color:#2a7ae2"></i>
+    <span style="color:#2a7ae2">&nbsp;*Distinguished Paper Award*</span>
 + **PySE: Automatic Worst-Case Test Generation by Reinforcement Learning** <br/>
    Jinkyu Koo, **Charitha Saumya**, Milind Kulkarni, Saurabh Bagchi <br/>
    ICST 2019 (Acceptance rate = 28.1%) 
     <a href="https://ieeexplore.ieee.org/document/8730198" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
+    <a href="{% link files/ICST19_pyse_slides.pdf %}" target="_blank"><i class="far fa-file-powerpoint fa-1.5x" style="color:black;"></i></a>
 + **Inertial Measurement Units based Wireless Sensor Network for Real Time Gait Analysis** <br/>
    Imesh Lihinikaduarachchi, Sajith Rajapaksha, **Charitha Saumya**, Viraj Senevirathne,  Pujitha Silva <br/>
    IEEE Region 10 Conference 2015
