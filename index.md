@@ -16,6 +16,14 @@ I am fortunate to be advised by Prof. [Milind Kulkarni](https://engineering.purd
 <!--Have a look at my blog [here](blog).-->
 ## Publications
 
++ **SparseLNR: Accelerating Sparse Tensor Computations Using Loop Nest Restructuring** <br/>
+    Adhitha Dias, Kirshanthan Sundararajah, **Charitha Saumya**, Milind Kulkarni  <br/>
+  ICS 2022 (Acceptance rate = 24%) 
+  <a href="https://dl.acm.org/doi/10.1145/3524059.3532386" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
+  <a href="https://github.com/adhithadias/SparseLNR" target="_blank"><i class="fa fa-github fa-1x" style="color:black;"></i></a>
+  <br/>
+  <i class="fa fa-award fa-1x" style="color:#2a7ae2"></i>
+  <span style="color:#2a7ae2">&nbsp;*Best Paper Award*</span>
 + **DARM: Control-Flow Melding for SIMT Thread Divergence Reduction** <br/>
     **Charitha Saumya**, Kirshanthan Sundararajah, Milind Kulkarni <br/>
     CGO 2022 (Acceptance rate = 27.3%) 
