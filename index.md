@@ -9,7 +9,7 @@ layout: custom
 <br/>
 <span style="color:#2a7ae2">I am actively looking for industry or industry research full-time roles starting summer 2023!</span>
 
-I am a PhD candidate in the Electrical and Computer Engineering Department of Purdue University. My current research is focused on developing targeted compiler transformations to improve performance and reliability of programs with irregular control-flow. 
+I am a PhD candidate in the Electrical and Computer Engineering Department of Purdue University and a member of Purdue Programming Languages Group ([PurPL](https://purduepl.github.io/)). My current research is focused on developing targeted compiler transformations to improve performance and reliability of programs with irregular control-flow. 
 I also have experience in using program analysis techniques (e.g. Fuzzing, Symbolic Execution) to improve Performance Test Generation. 
 
 I am fortunate to be advised by Prof. [Milind Kulkarni](https://engineering.purdue.edu/~milind/). 
