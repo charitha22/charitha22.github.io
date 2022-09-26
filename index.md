@@ -7,6 +7,8 @@ layout: custom
 <img  src="charitha4.jpg" alt="Poster" style="border-radius:50%" width="200"/>  <br/>
 </div>
 <br/>
+<span style="color:#2a7ae2">I am actively looking for industry or industry research full-time roles starting summer 2023!</span>
+
 I am a PhD candidate in the Electrical and Computer Engineering Department of Purdue University. My current research is focused on developing targeted compiler transformations to improve performance and reliability of programs with irregular control-flow. 
 I also have experience in using program analysis techniques (e.g. Fuzzing, Symbolic Execution) to improve Performance Test Generation. 
 
@@ -16,6 +18,10 @@ I am fortunate to be advised by Prof. [Milind Kulkarni](https://engineering.purd
 <!--Have a look at my blog [here](blog).-->
 ## Publications
 
++ **Cornucopia: A Framework for Feedback Guided Generation of Binaries** <br/>
+  Vidush Singhal, Akul Abhilash Pillai, **Charitha Saumya**, Milind Kulkarni, Aravind Machiry  <br/>
+  ASE 2022 (Acceptance rate = 22%) 
+  <a href="https://arxiv.org/pdf/2209.06694.pdf" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
 + **SparseLNR: Accelerating Sparse Tensor Computations Using Loop Nest Restructuring** <br/>
     Adhitha Dias, Kirshanthan Sundararajah, **Charitha Saumya**, Milind Kulkarni  <br/>
   ICS 2022 (Acceptance rate = 24%) 
