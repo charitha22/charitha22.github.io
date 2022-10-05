@@ -27,15 +27,17 @@ I am fortunate to be advised by Prof. [Milind Kulkarni](https://engineering.purd
   ICS 2022 (Acceptance rate = 24%) 
   <a href="https://dl.acm.org/doi/10.1145/3524059.3532386" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
   <a href="https://github.com/adhithadias/SparseLNR" target="_blank"><i class="fa fa-github fa-1x" style="color:black;"></i></a>
+  <a href="https://www.youtube.com/watch?v=TGGrjp3c2-U&t=3s" target="_blank"><i class="fa fa-youtube fa-1x" style="color:black;"></i></a>
   <br/>
   <i class="fa fa-award fa-1x" style="color:#2a7ae2"></i>
   <span style="color:#2a7ae2">&nbsp;*Best Paper Award*</span>
 + **DARM: Control-Flow Melding for SIMT Thread Divergence Reduction** <br/>
     **Charitha Saumya**, Kirshanthan Sundararajah, Milind Kulkarni <br/>
     CGO 2022 (Acceptance rate = 27.3%) 
-    <a href="{% link files/cgo22.pdf %}" target="_blank"><i class="far fa-file-pdf fa-1.5x" style="color:black;"></i></a>
+    <a href="{% link files/cgo22.pdf %}" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
     <a href="{% link files/cgo22_slides.pdf %}" target="_blank"><i class="far fa-file-powerpoint fa-1x" style="color:black;"></i></a>
     <a href="https://github.com/charitha22/cgo22ae-darm-benchmarks" target="_blank"><i class="fa fa-github fa-1x" style="color:black;"></i></a>
+    <a href="https://www.youtube.com/watch?v=hBhjPZEgNmY" target="_blank"><i class="fa fa-youtube fa-1x" style="color:black;"></i></a>
     <!--\[[extended version](https://arxiv.org/abs/2107.05681)\]-->
 + **ADDS-EVS: An Agent-Based Deployment Decision-Support System for Electric Vehicle Services** <br/>
     Zengxiang Lei, Jiawei Xue, Xiaowei Chen, **Charitha Saumya**, Xinwu Qian, Mingyi He, Stanislav Sobolevsky, Satish V Ukkusuri <br/>
