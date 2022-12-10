@@ -62,12 +62,11 @@ I am fortunate to be advised by Prof. [Milind Kulkarni](https://engineering.purd
    IEEE Region 10 Conference 2015
     <a href="https://ieeexplore.ieee.org/document/7372999" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
 
-## Technical Reports
+## Technical Talks 
 
-+  **Orion+: Automated Problem Diagnosis in Computing Systems by Mining Metric Data** <br/>
-   Charitha Saumya, Nomchin Banga, Shreya Inamdar <br/>
-   Purdue e-Pubs 2018
-   <a href="https://docs.lib.purdue.edu/ecetr/488/" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
++  <a href="https://www.youtube.com/watch?v=iGbdcItU0F8&list=PL_R5A0lGi1ACZDCQw533fo2dBljmOqIYx&index=20" target="_blank"> <b> Merging Similar Control-Flow Regions in LLVM for Performance and Code Size Benefits </b></a>
+2022 LLVM Developers' Meeting, San Jose, CA  <br/>
+   
 
 ## Education
 
