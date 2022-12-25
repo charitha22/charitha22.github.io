@@ -22,7 +22,7 @@ I am fortunate to be advised by Prof. [Milind Kulkarni](https://engineering.purd
   Rodrigo C. O. Rocha<sup>**\***</sup>, **Charitha Saumya<sup>*</sup>**, Kirshanthan Sundararajah, Pavlos Petoumenos, Milind Kulkarni, Michael O'Boyle (**\*** _equal contributions_)  <br/>
   CC 2023 (Acceptance rate = 40%)  <br/>
   <!-- <a href="https://dl.acm.org/doi/10.1145/3563333" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a> -->
-+ **UniRec: a unimodular-like framework for nested recursions and loops** <br/>
++ **UniRec: A Unimodular-like Framework for Nested Recursions and Loops** <br/>
   Kirshanthan Sundararajah, **Charitha Saumya**, Milind Kulkarni  <br/>
   OOPSLA 2022 (Acceptance rate = 31%)
   <a href="https://dl.acm.org/doi/10.1145/3563333" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
