@@ -18,6 +18,14 @@ I am fortunate to be advised by Prof. [Milind Kulkarni](https://engineering.purd
 <!--Have a look at my blog [here](blog).-->
 ## Publications
 
++ **HyBF: A Hybrid Branch Fusion Strategy for Code Size Reduction** <br/>
+  Rodrigo C. O. Rocha<sup>**\***</sup>, **Charitha Saumya<sup>*</sup>**, Kirshanthan Sundararajah, Pavlos Petoumenos, Milind Kulkarni, Michael O'Boyle (**\*** _equal contributions_)  <br/>
+  CC 2023 (Acceptance rate = 40%)  <br/>
+  <!-- <a href="https://dl.acm.org/doi/10.1145/3563333" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a> -->
++ **UniRec: a unimodular-like framework for nested recursions and loops** <br/>
+  Kirshanthan Sundararajah, **Charitha Saumya**, Milind Kulkarni  <br/>
+  OOPSLA 2022 (Acceptance rate = 31%)
+  <a href="https://dl.acm.org/doi/10.1145/3563333" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
 + **Cornucopia: A Framework for Feedback Guided Generation of Binaries** <br/>
   Vidush Singhal, Akul Abhilash Pillai, **Charitha Saumya**, Milind Kulkarni, Aravind Machiry  <br/>
   ASE 2022 (Acceptance rate = 22%) 
@@ -33,7 +41,7 @@ I am fortunate to be advised by Prof. [Milind Kulkarni](https://engineering.purd
   <span style="color:#2a7ae2">&nbsp;*Best Paper Award*</span>
 + **DARM: Control-Flow Melding for SIMT Thread Divergence Reduction** <br/>
     **Charitha Saumya**, Kirshanthan Sundararajah, Milind Kulkarni <br/>
-    CGO 2022 (Acceptance rate = 27.3%) 
+    CGO 2022 (Acceptance rate = 27%) 
     <a href="{% link files/cgo22.pdf %}" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
     <a href="{% link files/cgo22_slides.pdf %}" target="_blank"><i class="far fa-file-powerpoint fa-1x" style="color:black;"></i></a>
     <a href="https://github.com/charitha22/cgo22ae-darm-benchmarks" target="_blank"><i class="fa fa-github fa-1x" style="color:black;"></i></a>
@@ -45,7 +53,7 @@ I am fortunate to be advised by Prof. [Milind Kulkarni](https://engineering.purd
     <a href="https://ieeexplore.ieee.org/abstract/document/9564435" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
 + **XSTRESSOR: Automatic Generation of Large-Scale Worst-Case Test Inputs by Inferring Path Conditions** <br/>
    **Charitha Saumya**, Jinkyu Koo, Milind Kulkarni, Saurabh Bagchi <br/>
-   ICST 2019 (Acceptance rate = 28.1%)
+   ICST 2019 (Acceptance rate = 28%)
     <a href="https://ieeexplore.ieee.org/document/8730162" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a> 
     <a href="{% link files/ICST19_xstressor_slides.pdf %}" target="_blank"><i class="far fa-file-powerpoint fa-1x" style="color:black;"></i></a> 
     <a href="https://github.com/charitha22/XSTRESSOR" target="_blank"><i class="fa fa-github fa-1x" style="color:black;"></i></a>
@@ -54,7 +62,7 @@ I am fortunate to be advised by Prof. [Milind Kulkarni](https://engineering.purd
     <span style="color:#2a7ae2">&nbsp;*Distinguished Paper Award*</span>
 + **PySE: Automatic Worst-Case Test Generation by Reinforcement Learning** <br/>
    Jinkyu Koo, **Charitha Saumya**, Milind Kulkarni, Saurabh Bagchi <br/>
-   ICST 2019 (Acceptance rate = 28.1%) 
+   ICST 2019 (Acceptance rate = 28%) 
     <a href="https://ieeexplore.ieee.org/document/8730198" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
     <a href="{% link files/ICST19_pyse_slides.pdf %}" target="_blank"><i class="far fa-file-powerpoint fa-1.5x" style="color:black;"></i></a>
 + **Inertial Measurement Units based Wireless Sensor Network for Real Time Gait Analysis** <br/>
