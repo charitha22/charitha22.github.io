@@ -144,6 +144,7 @@ I am fortunate to be advised by Prof. [Milind Kulkarni](https://engineering.purd
 
 ## Professional Service
 
+* Artifact Evaluation Committee: CGO 2023
 * Student Volunteer: SPLASH 2021
 * External Reviewer: ISSRE 2017, 2018, DSN 2021
 * Undergraduates Advised: Pranavi Bajjuri, Ganesh Varnekar, Vidush Singhal
