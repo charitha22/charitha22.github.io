@@ -19,8 +19,10 @@ I am fortunate to be advised by Prof. [Milind Kulkarni](https://engineering.purd
 ## Publications
 
 + **HyBF: A Hybrid Branch Fusion Strategy for Code Size Reduction** <br/>
-  Rodrigo C. O. Rocha<sup>**\***</sup>, **Charitha Saumya<sup>*</sup>**, Kirshanthan Sundararajah, Pavlos Petoumenos, Milind Kulkarni, Michael O'Boyle (**\*** _equal contributions_)  <br/>
-  CC 2023 (Acceptance rate = 40%)  <br/>
+  Rodrigo C. O. Rocha<span style="color:#2a7ae2">&nbsp;<sup>**\***</sup></span>, **Charitha Saumya**<span style="color:#2a7ae2">&nbsp;<sup>**\***</sup></span>, Kirshanthan Sundararajah, Pavlos Petoumenos, Milind Kulkarni, Michael O'Boyle (<span style="color:#2a7ae2">&nbsp;**\*** _equal contributions_</span> )  <br/>
+  CC 2023 (Acceptance rate = 40%)
+  <a href="{% link files/hybf_cc23.pdf %}" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
+  <a href="https://github.com/charitha22/hybf-cc23-artifact" target="_blank"><i class="fa fa-github fa-1x" style="color:black;"></i></a>
   <!-- <a href="https://dl.acm.org/doi/10.1145/3563333" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a> -->
 + **UniRec: A Unimodular-like Framework for Nested Recursions and Loops** <br/>
   Kirshanthan Sundararajah, **Charitha Saumya**, Milind Kulkarni  <br/>
