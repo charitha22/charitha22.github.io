@@ -4,7 +4,7 @@ layout: custom
 
 <!--<img class="profile-picture" src="charitha.jpg">-->
 <div style="text-align:center">
-<img  src="charitha4.jpg" alt="Poster" style="border-radius:50%" width="200"/>  <br/>
+<img  src="charitha5.jpg" alt="Poster" style="border-radius:50%" width="200"/>  <br/>
 </div>
 <br/>
 <span style="color:#2a7ae2">I am actively looking for compiler R&D full-time roles starting summer 2023!</span>
