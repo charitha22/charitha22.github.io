@@ -75,9 +75,10 @@ I am fortunate to be advised by Prof. [Milind Kulkarni](https://engineering.purd
 
 ## Technical Talks 
 
-+  <a href="https://www.youtube.com/watch?v=iGbdcItU0F8&list=PL_R5A0lGi1ACZDCQw533fo2dBljmOqIYx&index=20" target="_blank"> <b> Merging Similar Control-Flow Regions in LLVM for Performance and Code Size Benefits </b></a>
++  <a href="https://www.youtube.com/watch?v=amLHnkSD1zc&t=1s" target="_blank"> <b>  Extending MLIR Dialects for Deep Learning Compilers </b></a> <br/>
+2024 LLVM Developers' Meeting, San Jose, CA  <br/>
++  <a href="https://www.youtube.com/watch?v=iGbdcItU0F8&list=PL_R5A0lGi1ACZDCQw533fo2dBljmOqIYx&index=20" target="_blank"> <b> Merging Similar Control-Flow Regions in LLVM for Performance and Code Size Benefits </b></a><br/>
 2022 LLVM Developers' Meeting, San Jose, CA  <br/>
-   
 
 ## Education
 
