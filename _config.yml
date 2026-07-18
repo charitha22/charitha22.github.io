@@ -20,7 +20,7 @@ description:  # this means to ignore newlines until "baseurl:"
 
 url: "charitha22.github.io"
 baseurl: "/"
-github:  charitha22
+github:  charithaintc
 linkedin: charithasaumya
 
 header_pages: # add header pages here eg. blog
