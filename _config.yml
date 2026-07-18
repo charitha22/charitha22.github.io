@@ -20,11 +20,8 @@ description:  # this means to ignore newlines until "baseurl:"
 
 url: "charitha22.github.io"
 baseurl: "/"
-twitter: charitha22
 github:  charitha22
 linkedin: charithasaumya
-mail: cgusthin@purdue.edu
-medium: saumyacharitha
 
 header_pages: # add header pages here eg. blog
     
