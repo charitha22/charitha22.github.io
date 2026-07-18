@@ -7,7 +7,7 @@ layout: custom
 <img  src="charitha5.jpg" alt="Poster" style="border-radius:50%" width="200"/>  <br/>
 </div>
 <br/>
-<span style="color:#2a7ae2">I have graduated and joined Intel as a Deep Learning Compiler Engineer!</span>
+<span style="color:#2a7ae2">I am a Compiler Engineer at Intel focusing on MLIR-based compilation for AI workloads.</span>
 
 I obtained my PhD in the Electrical and Computer Engineering from Purdue University. I was a member of Purdue Programming Languages Group ([PurPL](https://purduepl.github.io/)). My PhD research focused on developing targeted compiler transformations to improve performance and reliability of programs with irregular control-flow. 
 I also have experience in using program analysis techniques (e.g. Fuzzing, Symbolic Execution) to improve Performance Test Generation. 
@@ -18,6 +18,14 @@ I am fortunate to be advised by Prof. [Milind Kulkarni](https://engineering.purd
 <!--Have a look at my blog [here](blog).-->
 ## Publications
 
++ **Eliminate Branches by Melding IR Instructions** <br/>
+  Yuze Li, Srinivasan Ramachandra Sharma, **Charitha Saumya**, Ali R. Butt, Kirshanthan Sundararajah <br/>
+  ECOOP 2026
+  <a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol372-ecoop2026/LIPIcs.ECOOP.2026.18/LIPIcs.ECOOP.2026.18.pdf" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
++ **Taming the Hydra: Targeted Control-Flow Transformations for Dynamic Symbolic Execution** <br/>
+  **Charitha Saumya**<span style="color:#2a7ae2">&nbsp;<sup>**\***</sup></span>, Muhammad Hassan<span style="color:#2a7ae2">&nbsp;<sup>**\***</sup></span>, Rohan Gangaraju, Milind Kulkarni, Kirshanthan Sundararajah (<span style="color:#2a7ae2">&nbsp;**\*** _equal contributions_</span> )  <br/>
+  OOPSLA 2026
+  <a href="https://dl.acm.org/doi/pdf/10.1145/3798202" target="_blank"><i class="far fa-file-pdf fa-1x" style="color:black;"></i></a>
 + **HyBF: A Hybrid Branch Fusion Strategy for Code Size Reduction** <br/>
   Rodrigo C. O. Rocha<span style="color:#2a7ae2">&nbsp;<sup>**\***</sup></span>, **Charitha Saumya**<span style="color:#2a7ae2">&nbsp;<sup>**\***</sup></span>, Kirshanthan Sundararajah, Pavlos Petoumenos, Milind Kulkarni, Michael O'Boyle (<span style="color:#2a7ae2">&nbsp;**\*** _equal contributions_</span> )  <br/>
   CC 2023 (Acceptance rate = 40%)
